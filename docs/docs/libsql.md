@@ -58,5 +58,4 @@ However, by using `libsql` the following features are not available due to lack 
 - Update/commit/rollback hooks
 - Reactive queries
 - Extension loading
-- Local disk-encryption is currently not supported in libsql.
 - Custom tokenizers
